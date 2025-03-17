@@ -1,2 +1,5 @@
-# Data-Analysis-Dashboard
-I developed an extensive Excel project, incorporating multiple dashboards and tables for data analysis. The process included various stages, such as data preprocessing, cleaning, and visualization.
+## Call center report-Data analysis(Interactive creation using MS Excel)
+
+## Project Objective
+
+The call center aims to generate an annual call report for 2023 to provide the owner with valuable insights into customer behavior and service performance. This analysis will help identify trends, improve customer experience, and develop strategies to increase sales in 2024.
